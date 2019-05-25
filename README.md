@@ -16,13 +16,13 @@ Here i created a spring boot based rest  api for discount on the final bill.
 
 
 1. For Employee service api 
-Api url: http://localhost:8080/discounts/employee
+Api url: http://localhost:8080/discounts/employee \n
 Input : 
 {     "amount": 1000,     "customerType": "emplolyee",     "countOfyear": 2,     "itemType": "Reatil",     "isDiscounted": "N" }    
 
 
 2. For customer service api: 
-Api Url: http://localhost:8080/discounts/customer
+Api Url: http://localhost:8080/discounts/customer \n
 Input:  
 {     "amount": 1000,     "customerType": "customer",     "countOfyear": 2,     "itemType": "retail",     "isDiscounted": "N" }  
       
